@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "description": "Kill all the people",
+      "done": false
+    },
+    {
+      "id": 2,
+      "description": "Put a bomb in a stadium",
+      "done": true
+    },
+    {
+      "id": 3,
+      "description": "Destroy the underground",
+      "done": false
+    },
+    {
+      "id": 4,
+      "description": "Unleash the new covid",
+      "done": true
+    },
+    {
+      "id": 5,
+      "description": "Shoot down the angel of independence",
+      "done": false
+    }
+  ]
+}
